@@ -1,6 +1,6 @@
 # MyLawyer - AI Legal Assistant
 
-MyLawyer is an AI-powered legal assistant that helps users get answers to their questions about Indian law. The application provides a ChatGPT-like interface where users can ask legal questions and receive accurate responses based on Indian legal knowledge.
+MyLawyer is an AI-powered legal assistant that helps users get answers to their questions about Indian law. The application provides a simple interface where users can ask legal questions and receive accurate responses based on Indian legal knowledge.
 
 ## Features
 
